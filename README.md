@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ganu1415" alt="Ganu1415" /></a> </p>
 
-- 🔭 I’m currently working on **RS Skips**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Advanced Umbraco**
+- 🌱 I’m currently learning **Advanced React Js**
 
 - 💬 Ask me about **Html,css,js**
 
