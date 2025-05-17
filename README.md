@@ -1,4 +1,7 @@
 <h1 align="center">Ganesh Vhanmane</h1>
+<p align="center">
+  <img src="[images/banner.png](https://www.freepik.com/premium-ai-image/cute-3d-style-chibi-programmer-glasses-perched-their-nose-leaning-back-their-chair_156667402.htm#fromView=keyword&page=1&position=5&uuid=8cc74b3d-163a-4d30-b846-5992aed79e7a&query=Github+Character)" alt="Ganesh Vhanmane Banner" />
+</p>
 <h3 align="center">A Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ganu1415&label=Profile%20views&color=0e75b6&style=flat" alt="Ganu1415" /> </p>
